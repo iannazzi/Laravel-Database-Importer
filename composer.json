@@ -1,7 +1,7 @@
 {
   "name": "iannazzi/laravel-database-importer",
   "type": "library",
-  "description": "From an existing database for laravel 5 Create Migrations Models, Seeds, Factories, and Tests",
+  "description": "From 1 an existing database for laravel 5 Create Migrations Models, Seeds, Factories, and Tests",
   "keywords": ["laravel", "generators"],
   "license": "MIT",
   "authors": [
@@ -28,7 +28,7 @@
 
     "autoload": {
         "psr-4": {
-            "Importer\\": "src/"
+            "Iannazzi\\Importer\\": "src/"
         }
     },
   "repositories": [
@@ -36,7 +36,8 @@
       "type": "git",
       "url": "git@github.com:jamisonvalenta/Laravel-4-Generators.git"
     }
-  ]
+  ],
+  "minimum-stabililty": "dev"
 
 
 }
