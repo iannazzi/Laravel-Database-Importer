@@ -21,11 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="tmp.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/tmp.php">
+      <file leaf-file-name="composer.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/composer.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.07848837">
+              <caret line="2" column="90" selection-start-line="2" selection-start-column="90" selection-end-line="2" selection-end-column="90" />
               <folding />
             </state>
           </provider>
@@ -36,9 +36,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/tmp.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
       </list>
     </option>
   </component>
@@ -49,8 +49,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="186" />
-    <option name="y" value="105" />
+    <option name="x" value="-10" />
+    <option name="y" value="23" />
     <option name="width" value="1256" />
     <option name="height" value="737" />
   </component>
@@ -99,20 +99,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Importer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Importer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -158,7 +144,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="186" y="105" width="1256" height="737" extended-state="0" />
+    <frame x="-10" y="23" width="1256" height="737" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -188,21 +174,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35319766">
-          <caret line="9" column="58" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
-          <folding>
-            <marker date="1452960730000" expanded="true" signature="0:596" placeholder="{...}" />
-            <marker date="1452960730000" expanded="true" signature="18:375" placeholder="{&quot;laravel/framework&quot;: &quot;5.1.*&quot;...}" />
-            <marker date="1452960730000" expanded="true" signature="395:464" placeholder="{...}" />
-            <marker date="1452960730000" expanded="true" signature="414:458" placeholder="{&quot;Importer\&quot;: &quot;src/&quot;...}" />
-            <marker date="1452960730000" expanded="true" signature="484:592" placeholder="[...]" />
-            <marker date="1452960730000" expanded="true" signature="490:588" placeholder="{&quot;type&quot;: &quot;git&quot;...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.19622093">
@@ -215,6 +186,105 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/xethron/migrations-generator/tests/Xethron/MigrationsGenerator/MigrationsGeneratorServiceProviderTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1452960569000" expanded="false" signature="50:90" placeholder="..." />
+            <marker date="1452960569000" expanded="true" signature="173:4117" placeholder="..." />
+            <marker date="1452960569000" expanded="true" signature="205:235" placeholder="{...}" />
+            <marker date="1452960569000" expanded="true" signature="242:255" placeholder=" @test ..." />
+            <marker date="1452960569000" expanded="true" signature="308:2306" placeholder="{...}" />
+            <marker date="1452960569000" expanded="true" signature="389:395" placeholder="..." />
+            <marker date="1452960569000" expanded="true" signature="436:496" placeholder="..." />
+            <marker date="1452960569000" expanded="true" signature="536:543" placeholder="..." />
+            <marker date="1452960569000" expanded="true" signature="584:2095" placeholder="..." />
+            <marker date="1452960569000" expanded="true" signature="605:2087" placeholder="..." />
+            <marker date="1452960569000" expanded="true" signature="626:2086" placeholder="..." />
+            <marker date="1452960569000" expanded="true" signature="713:719" placeholder="..." />
+            <marker date="1452960569000" expanded="true" signature="772:798" placeholder="..." />
+            <marker date="1452960569000" expanded="true" signature="824:879" placeholder="..." />
+            <marker date="1452960569000" expanded="true" signature="927:933" placeholder="..." />
+            <marker date="1452960569000" expanded="true" signature="986:1024" placeholder="..." />
+            <marker date="1452960569000" expanded="true" signature="1050:1106" placeholder="..." />
+            <marker date="1452960569000" expanded="true" signature="1154:1160" placeholder="..." />
+            <marker date="1452960569000" expanded="true" signature="1213:1256" placeholder="..." />
+            <marker date="1452960569000" expanded="true" signature="1282:1345" placeholder="..." />
+            <marker date="1452960569000" expanded="true" signature="1393:1399" placeholder="..." />
+            <marker date="1452960569000" expanded="true" signature="1452:1474" placeholder="..." />
+            <marker date="1452960569000" expanded="true" signature="1500:1566" placeholder="..." />
+            <marker date="1452960569000" expanded="true" signature="1685:1690" placeholder="..." />
+            <marker date="1452960569000" expanded="true" signature="1770:1776" placeholder="..." />
+            <marker date="1452960569000" expanded="true" signature="1829:1837" placeholder="..." />
+            <marker date="1452960569000" expanded="true" signature="1863:1907" placeholder="..." />
+            <marker date="1452960569000" expanded="true" signature="1945:2051" placeholder="..." />
+            <marker date="1452960569000" expanded="true" signature="2223:2233" placeholder="..." />
+            <marker date="1452960569000" expanded="true" signature="2313:2326" placeholder=" @test ..." />
+            <marker date="1452960569000" expanded="true" signature="2370:2562" placeholder="{...}" />
+            <marker date="1452960569000" expanded="true" signature="2456:2465" placeholder="..." />
+            <marker date="1452960569000" expanded="true" signature="2506:2536" placeholder="..." />
+            <marker date="1452960569000" expanded="true" signature="2569:2582" placeholder=" @test ..." />
+            <marker date="1452960569000" expanded="true" signature="2621:2744" placeholder="{...}" />
+            <marker date="1452960569000" expanded="true" signature="2699:2738" placeholder="..." />
+            <marker date="1452960569000" expanded="true" signature="2781:2827" placeholder="{...}" />
+            <marker date="1452960569000" expanded="true" signature="2893:3167" placeholder="{...}" />
+            <marker date="1452960569000" expanded="true" signature="2927:2973" placeholder="..." />
+            <marker date="1452960569000" expanded="true" signature="3001:3094" placeholder="..." />
+            <marker date="1452960569000" expanded="true" signature="3068:3093" placeholder="..." />
+            <marker date="1452960569000" expanded="true" signature="3210:3339" placeholder="{...}" />
+            <marker date="1452960569000" expanded="true" signature="3383:3524" placeholder="{...}" />
+            <marker date="1452960569000" expanded="true" signature="3575:3721" placeholder="{...}" />
+            <marker date="1452960569000" expanded="true" signature="3775:3939" placeholder="{...}" />
+            <marker date="1452960569000" expanded="true" signature="3983:4116" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/xethron/migrations-generator/tests/Xethron/MigrationsGenerator/MigrationsGeneratorTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.07848837">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+          <folding>
+            <marker date="1452960569000" expanded="true" signature="50:90" placeholder="..." />
+            <marker date="1452960569000" expanded="true" signature="158:305" placeholder="..." />
+            <marker date="1452960569000" expanded="true" signature="188:218" placeholder="{...}" />
+            <marker date="1452960569000" expanded="true" signature="225:238" placeholder=" @test ..." />
+            <marker date="1452960569000" expanded="true" signature="291:304" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/xethron/migrations-generator/src/Xethron/MigrationsGenerator/MigrationsGeneratorServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.82848835">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1452960569000" expanded="true" signature="153:1225" placeholder="..." />
+            <marker date="1452960569000" expanded="true" signature="159:234" placeholder=" Indicates if loading of the provider is deferred. ..." />
+            <marker date="1452960569000" expanded="true" signature="269:328" placeholder=" Register the service provider. ..." />
+            <marker date="1452960569000" expanded="true" signature="358:991" placeholder="{...}" />
+            <marker date="1452960569000" expanded="true" signature="381:730" placeholder="..." />
+            <marker date="1452960569000" expanded="true" signature="428:726" placeholder="..." />
+            <marker date="1452960569000" expanded="true" signature="444:725" placeholder="..." />
+            <marker date="1452960569000" expanded="true" signature="863:986" placeholder="..." />
+            <marker date="1452960569000" expanded="true" signature="942:985" placeholder="..." />
+            <marker date="1452960569000" expanded="true" signature="997:1059" placeholder=" Bootstrap the application events. ..." />
+            <marker date="1452960569000" expanded="true" signature="1085:1091" placeholder="{...}" />
+            <marker date="1452960569000" expanded="true" signature="1097:1169" placeholder=" Get the services provided by the provider. ..." />
+            <marker date="1452960569000" expanded="true" signature="1199:1223" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.07848837">
+          <caret line="2" column="90" selection-start-line="2" selection-start-column="90" selection-end-line="2" selection-end-column="90" />
           <folding />
         </state>
       </provider>

@@ -1,5 +1,10 @@
 {
-
+  "name": "iannazzi/Laravel-Database-Importer",
+  "description": "From an existing database Create Migrations, Models, Seeds, Factories, and Tests",
+  "require": {
+    "php": ">=5.3.0",
+    "another-vendor/package": "1.*"
+  }
     "require": {
       "laravel/framework": "5.1.*",
       "fzaninotto/faker": "~1.4",
