@@ -1,7 +1,7 @@
 {
   "name": "iannazzi/laravel-database-importer",
   "type": "library",
-  "description": "From an existing database Create Migrations, Models, Seeds, Factories, and Tests",
+  "description": "From an existing database for laravel 5 Create Migrations Models, Seeds, Factories, and Tests",
   "keywords": ["laravel", "generators"],
   "license": "MIT",
   "authors": [
