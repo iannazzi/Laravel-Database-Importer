@@ -1,8 +1,17 @@
 {
   "name": "iannazzi/laravel-database-importer",
+  "type": "library",
   "description": "From an existing database Create Migrations, Models, Seeds, Factories, and Tests",
   "keywords": ["laravel", "generators"],
   "license": "MIT",
+  "authors": [
+    {
+      "name": "Craig Iannazzi",
+      "email": "ci@craiglorious.com",
+      "homepage": "embrasse-moi.com",
+      "role": "Developer"
+    }
+  ],
     "require": {
       "laravel/framework": "5.1.*",
       "fzaninotto/faker": "~1.4",
